@@ -6,7 +6,7 @@ npm run build
 npm install -g serve
 serve -s build
 ```
-Navigare a `http://localhost:3000/` su sulla macchina locale per utilizzare l'app.
+Navigare a `http://localhost:3000/` sulla macchina locale per utilizzare l'app.
 
 # Notes App
 ## Homepage
